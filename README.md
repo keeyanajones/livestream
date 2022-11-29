@@ -1,8 +1,17 @@
 # livestream
-Livestream
-
-## what does it do 
 Online streaming media simultaneously recorded and broadcast in real time. Any media delivered and played back simultaneously without requiring a completely downloaded file. Non-live media such as video-on-demand, vlogs, and YouTube videos are technically streamed, but not live streamed. 
+
+## Table of Content
+- what is it
+- technology used
+- ambition of project
+- stage
+- quick start
+- status
+- what's included
+- creators
+- copyright and license
+
 
 ## what is it
 - livestream
@@ -16,28 +25,6 @@ keep track of my livestream works with github blog post
 
 ## stage
 IN DEVELOPMENT
-
-## known issues / thing not properly done 
-
-## Table of Content
-- what does it do 
-- what is it
-- technology used
-- ambition of project
-- stage
-- known issues/ thing not properly done
-- quick start
-- status
-- what's included
-- bug and feature request
-- running documentation locally
-- pervious releases
-- contributing
-- community 
-- versioning
-- creators
-- thanks/backers/sponsors
-- copyright and license
 
 ## quick start
 Quick setup — if you’ve done this kind of thing before
@@ -74,22 +61,8 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 ## what's included
 Online streaming media simultaneously recorded and broadcast in real time. Any media delivered and played back simultaneously without requiring a completely downloaded file. Non-live media such as video-on-demand, vlogs, and YouTube videos are technically streamed, but not live streamed. 
     
-## bug and feature request
-
-## running documentation locally
-
-## previous releases
-
-## contributing
-
-## community
- 
-## versioning
-
 ## creators
   - 2020 Keeyana Jones
-
-## thanks/backers/sponsors
 
 ## copyright and license 
   - MIT License Copyright (c) 2020 Keeyana Jones
